@@ -1,21 +1,14 @@
-**Qspice Library for Würth Elektronik Products**
-=
-
+`Qspice Simulation Libraries for Würth Elektronik Products`
+=========
 ## Introduction
-Qspice is a SPICE simulator from Qorvo for analog and mixed signal systems.
+Welcome to Würth Elektronik Altium Database Library repository. <br>
+The libraries are maintained by Würth Elektronik EDA Team, for any questions and suggestions please feel free to contact EDA team by email: <libraries@we-online.com>
 
-For how to use models in GitHub repository, you can refer to the help document in this folder.
+## Library Component Coverage
 
-**Please read Disclaimer carefully before downloading and using Würth Elektronik Models.**
+* Passive Components <br>
+_Inductors, Transformers_
 
-**Note: Qspice Library is still under constant development.**
-**Please contact libraries@we-online.com, if there is any problem.**
-
-## Component Classification
-* WE - Automotive
-  
-  * Power Inductors
-* WE - Power Magnetics
-
-  * Inductors
-  * Transformers
+## More Library Repositories Provided By Würth Elektronik
+**PCB Library**: [Altium](https://github.com/WurthElektronik/Altium-Library) [Cadence](https://github.com/WurthElektronik/Cadence-Library), [Eagle](https://github.com/WurthElektronik/Eagle-Library), [KiCad](https://github.com/WurthElektronik/KiCad-Library)    <br>
+**Simulation Library**: [ADS](https://github.com/WurthElektronik/ADS-Library), [Ansys](https://github.com/WurthElektronik/Ansys-Library), [IBIS](https://github.com/WurthElektronik/IBIS-Library), [LTspice](https://github.com/WurthElektronik/LTspice-Library), [Pspice](https://github.com/WurthElektronik/Pspice-Library)
